@@ -1,6 +1,8 @@
-# Output repo
-This repo contains the results of the CADET case study of the project found below. 
-CADET-RDM tracks all runs of the `main.py` in the project repository. Every run creates its own branch in this output repository where all the results can be found inside the `src` folder. Check `log.tsv` on branch main to see which branch corresponds to which run. 
+# Output repository for Rectangular Pulse Elution Simulation with CADET
+This repository stores the simulation results for RDM-Example Rectangular Pulse. `CADET-RDM` automatically tracks all simulations that are started by running `main.py` from the corresponding project repository.
 
-The project repository can be found at:
-[project_repo](https://github.com/cadet/RDM-Example-Rectangular-Pulse)
+Each simulation run creates a dedicated branch in this output repository. The results are saved within the `src` folder of the respective branch. Additionally, a `log.tsv` file in the main branch records metadata for all runs, uniquely linking each output branch to its originating run in the project repository.
+
+## Project Repository
+The project repository for this case study is available here: <br>
+[Link to Project Repository](https://github.com/cadet/RDM-Example-Rectangular-Pulse)
