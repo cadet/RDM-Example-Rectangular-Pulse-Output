@@ -1,0 +1,26 @@
+Traceback (most recent call last):
+  File "C:\Users\katha\Dokumente_cadet\CADET-RDM\cadetrdm\repositories.py", line 1481, in track_results
+    yield new_branch_name
+  File "C:\Users\katha\Dokumente_cadet\CADET-RDM\cadetrdm\wrapper.py", line 41, in wrapper
+    results = func(project_repo, options)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\katha\Dokumente_cadet\CADET-RDM\cadetrdm\tools\process_example.py", line 213, in process_example
+    create_output(
+  File "C:\Users\katha\Dokumente_cadet\CADET-RDM\cadetrdm\tools\process_example.py", line 157, in create_output
+    run_func_over_args_list(
+  File "C:\Users\katha\Dokumente_cadet\CADET-RDM\cadetrdm\tools\process_example.py", line 83, in run_func_over_args_list
+    return backend.run(func, args_list)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\katha\Dokumente_cadet\CADET-RDM\cadetrdm\tools\process_example.py", line 38, in run
+    results.append(func(*args))
+                   ^^^^^^^^^^^
+  File "C:\Users\katha\Dokumente_cadet\CADET-RDM\cadetrdm\tools\process_example.py", line 185, in convert_python_to_ipynb
+    results = run_command(
+              ^^^^^^^^^^^^
+  File "C:\Users\katha\Dokumente_cadet\CADET-RDM\cadetrdm\tools\process_example.py", line 99, in run_command
+    return subprocess.run(command, shell=True, check=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\katha\miniforge3\envs\rdm-editable-optional\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command 'jupytext --output "C:/Users/katha/Dokumente_cadet/cadet_case_studies/RDM-Example-GRM-For-Linear-LC/output/src/GRM_for_linear_LC.ipynb" --execute "C:/Users/katha/Dokumente_cadet/cadet_case_studies/RDM-Example-GRM-For-Linear-LC/output/src/GRM_for_linear_LC.py"' returned non-zero exit status 1.
+
