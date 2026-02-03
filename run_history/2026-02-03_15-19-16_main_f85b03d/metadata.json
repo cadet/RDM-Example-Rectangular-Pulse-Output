@@ -1,0 +1,15 @@
+{
+  "output_repo_commit_message": "Try run; ",
+  "output_repo_branch": "2026-02-03_15-19-16_main_f85b03d",
+  "output_repo_commit_hash": "2f5c5eb855456dcf8e99ac0c94dad13e59f50fe0",
+  "project_repo_branch": "main",
+  "project_repo_commit_hash": "f85b03d8c8d6f7e40e6adf198af1e331637ec9b9",
+  "project_repo_folder_name": "RDM-Example-GRM-For-Linear-LC",
+  "project_repo_remotes": [
+    "git@github.com:cadet/RDM-Example-Rectangular-Pulse.git"
+  ],
+  "python_sys_args": "['C:\\\\Users\\\\katha\\\\miniforge3\\\\envs\\\\rdm-editable-optional\\\\Scripts\\\\rdm', 'run', 'python', 'C:\\\\Users\\\\katha\\\\Dokumente_cadet\\\\cadet_case_studies\\\\RDM-Example-GRM-For-Linear-LC\\\\main.py', 'Try run']",
+  "tags": "",
+  "options_hash": null,
+  "command": "python C:\\Users\\katha\\Dokumente_cadet\\cadet_case_studies\\RDM-Example-GRM-For-Linear-LC\\main.py"
+}
