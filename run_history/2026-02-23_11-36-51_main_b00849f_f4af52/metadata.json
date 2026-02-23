@@ -1,0 +1,14 @@
+{
+  "output_repo_commit_message": "Rectangular Pulse Example; ",
+  "output_repo_branch": "2026-02-23_11-36-51_main_b00849f_f4af52",
+  "output_repo_commit_hash": "a75edfa932e376966594690c32f293f442fd1e10",
+  "project_repo_branch": "main",
+  "project_repo_commit_hash": "b00849fea3dd92b291cc8f4c06d107ec1ac0acd5",
+  "project_repo_directory_name": "RDM-Example-Rectangular-Pulse",
+  "project_repo_remotes": [
+    "git@github.com:cadet/RDM-Example-Rectangular-Pulse.git"
+  ],
+  "python_sys_args": "['main.py']",
+  "tags": "",
+  "options_hash": "f5ywb884bh4krchb69pytjjbzrranvww"
+}
