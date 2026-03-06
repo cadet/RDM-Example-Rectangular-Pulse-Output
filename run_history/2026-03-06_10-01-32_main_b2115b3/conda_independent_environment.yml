@@ -1,0 +1,10 @@
+name: rdm-v.1.1.1
+channels:
+  - conda-forge
+dependencies:
+  - pip
+  - cadet
+  - jupyterlab-myst
+  - python=3.11
+  - jupyterlab
+prefix: C:\Users\katha\miniforge3\envs\rdm-v.1.1.1

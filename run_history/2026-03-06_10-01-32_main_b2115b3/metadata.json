@@ -1,0 +1,14 @@
+{
+  "output_repo_commit_message": "Rectangular Pulse Example; ",
+  "output_repo_branch": "2026-03-06_10-01-32_main_b2115b3",
+  "output_repo_commit_hash": "ee2545181accb5c528c8e5383069e09f9fdb1ca6",
+  "project_repo_branch": "main",
+  "project_repo_commit_hash": "b2115b3ebebaaa29aa17a46062d2d757149e03e2",
+  "project_repo_directory_name": "RDM-Example-GRM-For-Linear-LC",
+  "project_repo_remotes": [
+    "git@github.com:cadet/RDM-Example-Rectangular-Pulse.git"
+  ],
+  "python_sys_args": "['C:\\\\Users\\\\katha\\\\Dokumente_cadet\\\\cadet_case_studies\\\\RDM-Example-GRM-For-Linear-LC\\\\main.py']",
+  "tags": "",
+  "options_hash": "f5ywb884bh4krchb69pytjjbzrranvww"
+}
